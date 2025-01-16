@@ -1,0 +1,44 @@
+.reg{
+     background-color: black;
+     color: white;
+     text-align: center;
+}
+.ul,li{
+	display: inline-block;
+	color: grey;
+}
+li:hover{
+	color: white;
+}
+.box{
+	
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	width: 200px;
+	display: inline-block;
+	margin: 20px;
+	text-align: center;
+	margin-right: 10px;
+	
+
+}
+.box:hover{
+	background-color: black;
+	color: white;
+}
+.products{
+	text-align: center;
+
+}
+.con{
+	background-color: black;
+	color: white;
+}
+.con h2{
+	margin: 10px;
+     padding-left: 50px;
+}
+.reg h2{
+	padding-left: 50px;
+}
